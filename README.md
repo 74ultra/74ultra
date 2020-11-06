@@ -1,16 +1,13 @@
-### Hi there 👋
+### Thanks for stopping by! 👋
 
-<!--
-**74ultra/74ultra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Ryan. I am a full-stack web developer focusing on React and Node. I got into this profession because I what to create user-centric software that people are excited to use. 
 
-Here are some ideas to get you started:
+Expertise:
+- React.js
+- Node.js
+- Redux
+- Context API
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me at:
+r.barnhill@protonmail.com
